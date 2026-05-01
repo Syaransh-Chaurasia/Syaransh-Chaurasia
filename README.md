@@ -32,7 +32,7 @@ Final-year BSc Computer Science student at the University of Essex with a strong
 - Programming in C# (Aptech)
 
 #### Contact
-- Email: syaranshchaurasiauk@gmail.com  
+- Email: syaransh.chaurasiauk@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/syaransh-chaurasia-essex2005
 
 #### Quick notes for recruiters
